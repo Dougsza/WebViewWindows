@@ -48,7 +48,7 @@ namespace WebViewWindows {
             this.Controls.Add(this.webView);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "WebView Windows";
+            this.Text = "PlataCourses";
             ((System.ComponentModel.ISupportInitialize)(this.webView)).EndInit();
             this.ResumeLayout(false);
 
